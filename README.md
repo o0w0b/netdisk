@@ -1,1 +1,1 @@
-原项目的链接为https://github.com/alist-org/alist-render.git
+原项目的链接为https://github.com/alist-org/alist-render
